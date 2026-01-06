@@ -1,0 +1,4 @@
+Informacje o embeddingach:
+Liczba rekordów: 94
+Wymiar embeddingów: 384
+Model: paraphrase-multilingual-MiniLM-L12-v2

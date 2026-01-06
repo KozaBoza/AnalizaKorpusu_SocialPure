@@ -1,0 +1,10 @@
+Informacje o PCA:
+Oryginalny wymiar: 384
+Wymiar po PCA: 3
+
+Wyjaśniona wariancja:
+  Komponent 1: 0.0702 (7.02%)
+  Komponent 2: 0.0608 (6.08%)
+  Komponent 3: 0.0483 (4.83%)
+
+Skumulowana wyjaśniona wariancja: 0.1793 (17.93%)

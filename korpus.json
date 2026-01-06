@@ -1,0 +1,566 @@
+[
+  {
+    "id": 1,
+    "tekst": "Łukasz, różnej tu maści ściepy komentują, część za kasa, część z gupoty, sie niy przejmuj, røb swoje...",
+    "kategoria": "Wypowiedzi Regionalne i Gwarowe",
+    "opis_kategorii": "Komentarze napisane w gwarze regionalnej (np. śląskiej, kaszubskiej), lub bezpośrednio odnoszące się do regionalnej tożsamości, kultury, dumy, specyficznych problemów danego regionu lub jego mieszkańców."
+  },
+  {
+    "id": 2,
+    "tekst": "Żeś mi smaka na smaženy syr s hranolkami narobił... Jeszcze čapovaná Kofola by się zdała.",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 3,
+    "tekst": "Zacny mantel, Milordzie!",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 4,
+    "tekst": "Nie za gorko Ci w tym mantlu?",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 5,
+    "tekst": "Lukas, fest mi gańba za tych „Ślonzokow” co tak ôszkliwie komentujom",
+    "kategoria": "Wypowiedzi Regionalne i Gwarowe",
+    "opis_kategorii": "Komentarze napisane w gwarze regionalnej (np. śląskiej, kaszubskiej), lub bezpośrednio odnoszące się do regionalnej tożsamości, kultury, dumy, specyficznych problemów danego regionu lub jego mieszkańców."
+  },
+  {
+    "id": 6,
+    "tekst": "Taki Ślonzok jak i Dietmar Bryjmer co na głównyj ulicy w Katowicach codziynnie ustawio kolyjka meneli z cauego świata, aby pokozać jakie to Poloki som be a niymce cacy.\nTzw propaganda podprogowa.",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 7,
+    "tekst": "Ty się patałachu bardzo chętnie zajmujesz problemami niemieckimi w Polsce, mając polskie problemy głęboko w dupie.",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 8,
+    "tekst": "Amba Fatima ... był komuch i ni ma \n***** RAŚ i Kohuta",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 9,
+    "tekst": "Będziesz, POpaorańcu, \"rozliczony\". Do \"zobaczenia\"",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 10,
+    "tekst": "Żeś mie richtig zaś zgorszył",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 11,
+    "tekst": "Gańba by cie było chłopie na Trzaskowskiego welować co wszystko pozamyko i sprzedo Gebelsom i innym takim, nie bydzie gruby na Śląsku a przeca z tego żyjemy. Dyć to co robisz jest zdradą naszego pyknego kraju aż płakać się chce",
+    "kategoria": "Wypowiedzi Regionalne i Gwarowe",
+    "opis_kategorii": "Komentarze napisane w gwarze regionalnej (np. śląskiej, kaszubskiej), lub bezpośrednio odnoszące się do regionalnej tożsamości, kultury, dumy, specyficznych problemów danego regionu lub jego mieszkańców."
+  },
+  {
+    "id": 12,
+    "tekst": "To co czytom to piszom ŚLONZOKI?! Zawsze żech myśloł że my som lepsze , że mondrzejsze ...Myśla , że jednak ci co piszom take zajadłe teksty to...łojce przijechały kanś z daleka..smutno mi Boże.",
+    "kategoria": "Wypowiedzi Regionalne i Gwarowe",
+    "opis_kategorii": "Komentarze napisane w gwarze regionalnej (np. śląskiej, kaszubskiej), lub bezpośrednio odnoszące się do regionalnej tożsamości, kultury, dumy, specyficznych problemów danego regionu lub jego mieszkańców."
+  },
+  {
+    "id": 13,
+    "tekst": "Ty. Tempa. Juju. Wypad",
+    "kategoria": "Agresywne Obelgi i Wulgaryzmy Ogólne",
+    "opis_kategorii": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+  },
+  {
+    "id": 14,
+    "tekst": "Dalej fanzolisz zdrajco.",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 15,
+    "tekst": "Fajna muzyka dla 40letnich bezdzietnych lambadziar w koszulkach z pępkiem na wierzchu, marzących o chłopaku gangsterze, wracających z imprezy w Mielnie do swojej kwatery",
+    "kategoria": "Agresywne Obelgi i Wulgaryzmy Ogólne",
+    "opis_kategorii": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+  },
+  {
+    "id": 16,
+    "tekst": "\"inwestował w wirtualne skiny do broni\" - xDDDDDDD\n\n\"inwestowanie\" xDDDDDD ja ostatnio kupiłem sobie trylogię Sienkiewicza w ładnej oprawie, nie nazwałbym tego \"inwestycją\" nawet jak mógłbym sprzedać to za 10 lat za 10 złotych drożej",
+    "kategoria": "Dyskusje o Grach Komputerowych i Sprzęcie",
+    "opis_kategorii": "Komentarze dotyczące gier wideo (nazwy, mechaniki, modyfikacje), sprzętu komputerowego (karty graficzne, technologie gamingowe) oraz oskarżeń o oszustwa (hackowanie) w grach online."
+  },
+  {
+    "id": 17,
+    "tekst": "😍😍dwa crush na jednym filmiku pozdro",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 18,
+    "tekst": "czy my jesteśmy martwodupni🥀",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 19,
+    "tekst": "chyba mam wylew i udar 🥀",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 20,
+    "tekst": "skolim to dolna część od roweru",
+    "kategoria": "Agresywne Obelgi i Wulgaryzmy Ogólne",
+    "opis_kategorii": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+  },
+  {
+    "id": 21,
+    "tekst": "Uwaga uwaga🚨Krakowski stifler wjeżdża na salony. Chowajcie mamy i ich cipy!!! Pozdro Dzigi 😆",
+    "kategoria": "Agresywne Obelgi i Wulgaryzmy Ogólne",
+    "opis_kategorii": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+  },
+  {
+    "id": 22,
+    "tekst": "dzieci maja dzieci",
+    "kategoria": "Komentarze o Pokoleniach i Problemach Młodzieży",
+    "opis_kategorii": "Komentarze odnoszące się do zachowań młodego pokolenia, problemów specyficznych dla nastolatków (np. wczesne ciąże, hejt w internecie), lub nostalgiczne wspomnienia związane z młodością."
+  },
+  {
+    "id": 23,
+    "tekst": "😂shon",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 24,
+    "tekst": "śmieszą mnie osoby co pisza ze przeraża ich ta generacja... przecież prawie wszystkie babcie/prababcie też były w nastoletnich ciążach tylko wtedy nie było internetu i to co było w domu zostawalo w domu... Btw powodzeniaa laskaa❤️❤️",
+    "kategoria": "Komentarze o Pokoleniach i Problemach Młodzieży",
+    "opis_kategorii": "Komentarze odnoszące się do zachowań młodego pokolenia, problemów specyficznych dla nastolatków (np. wczesne ciąże, hejt w internecie), lub nostalgiczne wspomnienia związane z młodością."
+  },
+  {
+    "id": 25,
+    "tekst": "Ale dlaczego wy ją hejtujecie? Nawet jej prywatnie nie znacie a piszecie tak okropne komentarze (wszystkiego dobrego trzymam kciuki❤️)",
+    "kategoria": "Komentarze o Pokoleniach i Problemach Młodzieży",
+    "opis_kategorii": "Komentarze odnoszące się do zachowań młodego pokolenia, problemów specyficznych dla nastolatków (np. wczesne ciąże, hejt w internecie), lub nostalgiczne wspomnienia związane z młodością."
+  },
+  {
+    "id": 26,
+    "tekst": "chyba mam udar",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 27,
+    "tekst": "jak oni nie będą razem to ja nie wierzę w miłość",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 28,
+    "tekst": "pierwszy raz widzę osobę z autyzmem która jest bardzo ładna. serio, przystojny jest Twój syn",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 29,
+    "tekst": "Ten Karolak to sztywny taki,nie ma talentu do tańca",
+    "kategoria": "Krytyka Uczestników i Jury Talent Show",
+    "opis_kategorii": "Komentarze bezpośrednio oceniające występy, talent, zachowanie, wygląd lub ogólny wkład uczestników oraz decyzje i kompetencje jurorów w programach telewizyjnych typu talent show."
+  },
+  {
+    "id": 30,
+    "tekst": "Niezmiennie Kasia i Janja top",
+    "kategoria": "Krytyka Uczestników i Jury Talent Show",
+    "opis_kategorii": "Komentarze bezpośrednio oceniające występy, talent, zachowanie, wygląd lub ogólny wkład uczestników oraz decyzje i kompetencje jurorów w programach telewizyjnych typu talent show."
+  },
+  {
+    "id": 31,
+    "tekst": "On jest rozkraczony brak gracji typowy wiejski chłop",
+    "kategoria": "Agresywne Obelgi i Wulgaryzmy Ogólne",
+    "opis_kategorii": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+  },
+  {
+    "id": 32,
+    "tekst": "Wiktoria pięknie tańczy , jedno ale musisz przytyć dziewczyno  .",
+    "kategoria": "Krytyka Uczestników i Jury Talent Show",
+    "opis_kategorii": "Komentarze bezpośrednio oceniające występy, talent, zachowanie, wygląd lub ogólny wkład uczestników oraz decyzje i kompetencje jurorów w programach telewizyjnych typu talent show."
+  },
+  {
+    "id": 33,
+    "tekst": "P. Bursztynowicz już NIE PRZEPYCHAC dalej. Kompletna kłoda a odpadają przez nią ludzie młodzi, którzy tańczą!",
+    "kategoria": "Krytyka Uczestników i Jury Talent Show",
+    "opis_kategorii": "Komentarze bezpośrednio oceniające występy, talent, zachowanie, wygląd lub ogólny wkład uczestników oraz decyzje i kompetencje jurorów w programach telewizyjnych typu talent show."
+  },
+  {
+    "id": 34,
+    "tekst": "Dajcie spokuj dwie kobiety w tańcu",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 35,
+    "tekst": "Super fajnej niedzieli I wieczoru dla Wszystkich Uczestników programu Taniec z Gwiazdami w Polsce w telewizji o godzinie 19:55 . I Miłego wieczoru dla Wszystkich Uczestników I Jurorów .",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 36,
+    "tekst": "Może w końcu Bursztynowicz zniknie z pola widzenia, dokąd można ?",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 37,
+    "tekst": "To będzie piękny odcinek maratonu jako \"Potańcówka u Maćka\"",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 38,
+    "tekst": "Ciekawe jak sobie poradzi starsza pani /cos wiem na ten temat/. Pan Pajac da rade.",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 39,
+    "tekst": "Za faka w stronę telewidzów powinien być zdyskwalifikowany ten idiota !!!!!!",
+    "kategoria": "Krytyka Uczestników i Jury Talent Show",
+    "opis_kategorii": "Komentarze bezpośrednio oceniające występy, talent, zachowanie, wygląd lub ogólny wkład uczestników oraz decyzje i kompetencje jurorów w programach telewizyjnych typu talent show."
+  },
+  {
+    "id": 40,
+    "tekst": "Przepraszam pana ale niech nie robi Pan pajaca z siebie bo tylko na tym show Pan przechodzi a to jest przykre I niesprawiedliwe wobec innych￼",
+    "kategoria": "Krytyka Uczestników i Jury Talent Show",
+    "opis_kategorii": "Komentarze bezpośrednio oceniające występy, talent, zachowanie, wygląd lub ogólny wkład uczestników oraz decyzje i kompetencje jurorów w programach telewizyjnych typu talent show."
+  },
+  {
+    "id": 41,
+    "tekst": "Szkoda komentarzy i tak robią co chcą. Jeszcze kiedyś myślałem że Iwona ocenia jak profesjonalna jurorka ale po tym odcinku to jest dno. Porównywać taniec powtarzam taniec bo niby ona ocenia taniec i noty Karolak Barbara I Olek to chyba była na innym spektaklu albo czas zmienić jury",
+    "kategoria": "Krytyka Uczestników i Jury Talent Show",
+    "opis_kategorii": "Komentarze bezpośrednio oceniające występy, talent, zachowanie, wygląd lub ogólny wkład uczestników oraz decyzje i kompetencje jurorów w programach telewizyjnych typu talent show."
+  },
+  {
+    "id": 42,
+    "tekst": "Karolakowi należy się nagroda specjalna za super szoł. Tańczyć nie umie ale robi to co potrafi najlepiej - rozbawia, rozluźnia atmosferę, po prostu jest super.",
+    "kategoria": "Krytyka Uczestników i Jury Talent Show",
+    "opis_kategorii": "Komentarze bezpośrednio oceniające występy, talent, zachowanie, wygląd lub ogólny wkład uczestników oraz decyzje i kompetencje jurorów w programach telewizyjnych typu talent show."
+  },
+  {
+    "id": 43,
+    "tekst": "Co to kuźwa jest?????",
+    "kategoria": "Agresywne Obelgi i Wulgaryzmy Ogólne",
+    "opis_kategorii": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+  },
+  {
+    "id": 44,
+    "tekst": "Muszą im dużo płacić że robią z siebie takich błaznów",
+    "kategoria": "Krytyka Uczestników i Jury Talent Show",
+    "opis_kategorii": "Komentarze bezpośrednio oceniające występy, talent, zachowanie, wygląd lub ogólny wkład uczestników oraz decyzje i kompetencje jurorów w programach telewizyjnych typu talent show."
+  },
+  {
+    "id": 45,
+    "tekst": "Przepiękny występ Kasi i Janji, jestem zachwycona ich tańcem",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 46,
+    "tekst": "Kasia zillman I Jania lesar to jest jednaz moich ulubionych par potem Maurycy i Sara i Wiktoria gorodecka I Kamil kuroczko pozdrawiam Zuzia z Bydgoszczy",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 47,
+    "tekst": "Przepiękny występ Marcina i Agnieszkę  niż faworytki Kasi i Janji oraz pięknie i najpiękniejszych chwil",
+    "kategoria": "Krytyka Uczestników i Jury Talent Show",
+    "opis_kategorii": "Komentarze bezpośrednio oceniające występy, talent, zachowanie, wygląd lub ogólny wkład uczestników oraz decyzje i kompetencje jurorów w programach telewizyjnych typu talent show."
+  },
+  {
+    "id": 48,
+    "tekst": "Nawiedzanie urbana to troche jak halloween. Jest ryzyko że stare komuchy będą cie potem straszyć po nocach.",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 49,
+    "tekst": "Pajac z Podkarpacia który dostał fuchę w państwowej czy tam miejskiej spółce.",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 50,
+    "tekst": "Niesamowite jak chudołapne eurocwele potrafią się błaźnić za stanowiska i apanaże",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 51,
+    "tekst": "zróbcie, żeby mój trzyletni synek srał do gara. Bycie pdf nigdy nie było łatwiejsze",
+    "kategoria": "Agresywne Obelgi i Wulgaryzmy Ogólne",
+    "opis_kategorii": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+  },
+  {
+    "id": 52,
+    "tekst": "Ciemnogród. Czy tam inny \"ziębogród\".",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 53,
+    "tekst": "Gangus! Godka kibolsko i grypsy uzno...",
+    "kategoria": "Agresywne Obelgi i Wulgaryzmy Ogólne",
+    "opis_kategorii": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+  },
+  {
+    "id": 54,
+    "tekst": "Welowali na takiego ciula to majom",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 55,
+    "tekst": "Bo w Polsce tylko bonkiewiczowy patriotyzm jest ok.",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 56,
+    "tekst": "Żeby tylKO nie zaczęli używać maczet zamiast noży ( i nie o kibiców jedynie chodzi). 🥴",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 57,
+    "tekst": "Jezus ja nadal pamiętam odcinki z gangiem świeżaków i ciebie w roli pielęgniarki/lekarki. Nieźle wyrosłaś młoda. Powodzenia w szkole średniej",
+    "kategoria": "Komentarze o Pokoleniach i Problemach Młodzieży",
+    "opis_kategorii": "Komentarze odnoszące się do zachowań młodego pokolenia, problemów specyficznych dla nastolatków (np. wczesne ciąże, hejt w internecie), lub nostalgiczne wspomnienia związane z młodością."
+  },
+  {
+    "id": 58,
+    "tekst": "Ogulnie jestem w 2 kl średniej i np. U mnie czepiali się o pierwsze strony o rysunki i tak dalej",
+    "kategoria": "Komentarze o Pokoleniach i Problemach Młodzieży",
+    "opis_kategorii": "Komentarze odnoszące się do zachowań młodego pokolenia, problemów specyficznych dla nastolatków (np. wczesne ciąże, hejt w internecie), lub nostalgiczne wspomnienia związane z młodością."
+  },
+  {
+    "id": 59,
+    "tekst": "To nie jest \"oszom\" to jest ️OsZoŁoM️",
+    "kategoria": "Agresywne Obelgi i Wulgaryzmy Ogólne",
+    "opis_kategorii": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+  },
+  {
+    "id": 60,
+    "tekst": "Jezu ty jesteś moją idolkom nauczłaś mnie wszystkiego na hobby horsah muj hobby horsem to dość specyficzny wyglont i nazywa się magia kocham cię kht ️",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 61,
+    "tekst": "Francja jeden z najlepszych sojuszników, zwłaszcza przeciwko kacapom, a ten się do Francuzów sapie, cholera wie po co... xD",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 62,
+    "tekst": "Jak się mówi na kondominium, tylko że trzy państwa, jeśli się Francuzi przyłączyli do rozkradania Polski? Tridominium?",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 63,
+    "tekst": "Jakże piekna droga przed kazdym i jakze trudna kiedy towarzyszyc nam zacznie nadzieja... Ale nadzieja bez Swiatla niczym...Wiec miejmy nadzieję, ze Jezus bedzie nam Droga, Zyciem...Prawdą.... amen",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 64,
+    "tekst": "Nic dobrego od tych Szwabów nigdy nie przyszło i nie przyjdzie. Już dawno mówili że chuja dostaniemy ale w tedy nie widziałem, że chodziło im o premiera",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 65,
+    "tekst": "Mają formę ale one są jak jogurt dodasz czosnku do niego i wymieszasz i jest co innego 😐",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 66,
+    "tekst": "A Polak siedzi w kryminale o takie mamy prawo w Polsce.Wstyd i hańba dla władzy rządzącej .A Banderowcy będą się jeszcze bardziej czuć pewnie.",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 67,
+    "tekst": "Kiedyś Europejczyk zawiózł choroby do np. Ameryki a teraz z Afryki i Azji przychodzą do nas . Co za dużo to nie zdrowo|",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 68,
+    "tekst": "Nie zabôczë nigdë kòrónë dlô Grifa/ala grafiô!!!pësznota",
+    "kategoria": "Wypowiedzi Regionalne i Gwarowe",
+    "opis_kategorii": "Komentarze napisane w gwarze regionalnej (np. śląskiej, kaszubskiej), lub bezpośrednio odnoszące się do regionalnej tożsamości, kultury, dumy, specyficznych problemów danego regionu lub jego mieszkańców."
+  },
+  {
+    "id": 69,
+    "tekst": "Ależ jej starzy muszą mieć nasrane we łbach...\nPewnie siedzą tutaj pod tagiem Silnigazem xd",
+    "kategoria": "Agresywne Obelgi i Wulgaryzmy Ogólne",
+    "opis_kategorii": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+  },
+  {
+    "id": 70,
+    "tekst": "Sama mam średniopory i fajnie mi się sprawdziła odżywka z soflow, zapach mango na puch chociaż nie sądzę, żeby była turbo dociążająca za to w tej kwestii jedynie do głowy przychodzi mi z Anwen x Klaudia ta emolientowa z silikonami.",
+    "kategoria": "Porady i Recenzje Produktów Specjalistycznych",
+    "opis_kategorii": "Komentarze oferujące konkretne porady, rekomendacje lub recenzje produktów z niszowych dziedzin, takich jak pielęgnacja włosów, zawierające szczegółowe nazwy produktów i ich zastosowania."
+  },
+  {
+    "id": 71,
+    "tekst": "Du...A...Biskupa ..taka gra w karty jest..taka prawda",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 72,
+    "tekst": "Wymie jak u krowy xd",
+    "kategoria": "Wyrażanie Uczuć i Subiektywnych Ocen",
+    "opis_kategorii": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+  },
+  {
+    "id": 73,
+    "tekst": "świniak, kibol patus zmieniony w psa XD",
+    "kategoria": "Agresywne Obelgi i Wulgaryzmy Ogólne",
+    "opis_kategorii": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+  },
+  {
+    "id": 74,
+    "tekst": "Chemitrails, to żadna teoria, to prawda a ten kto mówi, że to zwykłe smugi kondensacyjne jest albo idiotą, albo cynicznym kłamcą. Dziękuję za uwagę - więcej nie oglądam",
+    "kategoria": "Teorie Spiskowe i Pseudo-nauka",
+    "opis_kategorii": "Komentarze prezentujące teorie spiskowe, twierdzenia o ukrytych działaniach (np. chemtrails) lub narracje o manipulacji globalnej, często z wyraźnym odrzuceniem oficjalnych wyjaśnień."
+  },
+  {
+    "id": 75,
+    "tekst": "Panie kolego prosimy o zwięzłość a nie o pierdoły nie da się uciąć, dziękujemy i wyłączamy️️️️️️️",
+    "kategoria": "Agresywne Obelgi i Wulgaryzmy Ogólne",
+    "opis_kategorii": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+  },
+  {
+    "id": 76,
+    "tekst": "To zasnuwanie szkodliwymi substancjami nieba nad Polską mających na celu rzekome ochłodzenia klimatu, poza skutkiem chłodnego u nas lata bez deszczu, a upalnej pogody nad Skandynawią osiągnięto wyłącznie zamierzony cel klimatycznego ataku Anglii na Polskę.",
+    "kategoria": "Teorie Spiskowe i Pseudo-nauka",
+    "opis_kategorii": "Komentarze prezentujące teorie spiskowe, twierdzenia o ukrytych działaniach (np. chemtrails) lub narracje o manipulacji globalnej, często z wyraźnym odrzuceniem oficjalnych wyjaśnień."
+  },
+  {
+    "id": 77,
+    "tekst": "Jo juz nie omia suchac tych goroli u nos w Stolarzowicach",
+    "kategoria": "Wypowiedzi Regionalne i Gwarowe",
+    "opis_kategorii": "Komentarze napisane w gwarze regionalnej (np. śląskiej, kaszubskiej), lub bezpośrednio odnoszące się do regionalnej tożsamości, kultury, dumy, specyficznych problemów danego regionu lub jego mieszkańców."
+  },
+  {
+    "id": 78,
+    "tekst": "Mōj starzik gōdoł, mōj tata gōdoł, jo godōm i moja familijo cało godo! Żodyn nie bydzie mi rozkazowoł jak mōm gōdać i kim mōm sie czuć!",
+    "kategoria": "Wypowiedzi Regionalne i Gwarowe",
+    "opis_kategorii": "Komentarze napisane w gwarze regionalnej (np. śląskiej, kaszubskiej), lub bezpośrednio odnoszące się do regionalnej tożsamości, kultury, dumy, specyficznych problemów danego regionu lub jego mieszkańców."
+  },
+  {
+    "id": 79,
+    "tekst": "Za każdym razem kiedy myślę, że nasz żółty statek podwodny nie może być bliżej dna, zanurzamy się coraz głębiej",
+    "kategoria": "Krytyka Polityków i Instytucji",
+    "opis_kategorii": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+  },
+  {
+    "id": 80,
+    "tekst": "Można by na przykład powiedzieć że Monika też hakuje bo nie było jej 2-3 miesiące a wbiła troche fame ;( Więc nie zmienia to faktu że Ala nie hakuje. Ale nie tylko Ala została oskarżona bo Kamil;) też zostal oskarżony za hakowanie. Po prostu Monika zrobiła to dlatego że Kamil ją doganiał. A ALAKINGA przegoniła Ulke.Niby Monika nie lubi Ulki ale jej nie oskarżyła o hakowanie:) a ciebie też moge oskarżyć o hakowanie. No i po prostu jedni staneli by po mojej stronie a drudzy po twojej. Taka jest prawda.",
+    "kategoria": "Dyskusje o Grach Komputerowych i Sprzęcie",
+    "opis_kategorii": "Komentarze dotyczące gier wideo (nazwy, mechaniki, modyfikacje), sprzętu komputerowego (karty graficzne, technologie gamingowe) oraz oskarżeń o oszustwa (hackowanie) w grach online."
+  },
+  {
+    "id": 81,
+    "tekst": "Ja jestem za starrr_03. ALAKINGA na 100% hackuje i uważa siebie za królową MSP! Po za tym jest bardzo brzydka.",
+    "kategoria": "Dyskusje o Grach Komputerowych i Sprzęcie",
+    "opis_kategorii": "Komentarze dotyczące gier wideo (nazwy, mechaniki, modyfikacje), sprzętu komputerowego (karty graficzne, technologie gamingowe) oraz oskarżeń o oszustwa (hackowanie) w grach online."
+  },
+  {
+    "id": 82,
+    "tekst": "Chyba też się skuszę jak wyjdą te nowe mody. Do tego jakiś mod Overhoul + mod na gwinta i można wsiąkać",
+    "kategoria": "Dyskusje o Grach Komputerowych i Sprzęcie",
+    "opis_kategorii": "Komentarze dotyczące gier wideo (nazwy, mechaniki, modyfikacje), sprzętu komputerowego (karty graficzne, technologie gamingowe) oraz oskarżeń o oszustwa (hackowanie) w grach online."
+  },
+  {
+    "id": 83,
+    "tekst": "Wachałbym się pomiędzy AC:R a NFS: TR oraz TES V: Skyrim.",
+    "kategoria": "Dyskusje o Grach Komputerowych i Sprzęcie",
+    "opis_kategorii": "Komentarze dotyczące gier wideo (nazwy, mechaniki, modyfikacje), sprzętu komputerowego (karty graficzne, technologie gamingowe) oraz oskarżeń o oszustwa (hackowanie) w grach online."
+  },
+  {
+    "id": 84,
+    "tekst": "gowno z dupy gówno z dupy 123",
+    "kategoria": "Agresywne Obelgi i Wulgaryzmy Ogólne",
+    "opis_kategorii": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+  },
+  {
+    "id": 85,
+    "tekst": "Kwestia RT już dawno temu naprawiona, ostatnio testowałem po zakupie RTX 4070 Super i wszystko normalnie śmiga. Profilaktycznie wyłączcie tylko hairworks od Nvidii bo może to powodować bardzo rzadkie crashe gry.",
+    "kategoria": "Dyskusje o Grach Komputerowych i Sprzęcie",
+    "opis_kategorii": "Komentarze dotyczące gier wideo (nazwy, mechaniki, modyfikacje), sprzętu komputerowego (karty graficzne, technologie gamingowe) oraz oskarżeń o oszustwa (hackowanie) w grach online."
+  },
+  {
+    "id": 86,
+    "tekst": "Jo je dumny żech ze Śląska jest ,i jak mi ktoś godo że slychać mojo gwara to sie nie obrażom",
+    "kategoria": "Wypowiedzi Regionalne i Gwarowe",
+    "opis_kategorii": "Komentarze napisane w gwarze regionalnej (np. śląskiej, kaszubskiej), lub bezpośrednio odnoszące się do regionalnej tożsamości, kultury, dumy, specyficznych problemów danego regionu lub jego mieszkańców."
+  },
+  {
+    "id": 87,
+    "tekst": "To nasza mało fajno ojczyzno tu nasze życie kultura i nasze regionalne potrawy od wodzionki po moczka i tak dali",
+    "kategoria": "Wypowiedzi Regionalne i Gwarowe",
+    "opis_kategorii": "Komentarze napisane w gwarze regionalnej (np. śląskiej, kaszubskiej), lub bezpośrednio odnoszące się do regionalnej tożsamości, kultury, dumy, specyficznych problemów danego regionu lub jego mieszkańców."
+  },
+  {
+    "id": 88,
+    "tekst": "Dej pozór na siebie i nie zapomnij się uśmiychać dzisiej! Świat od razu lepszy, jak się ktoś uśmiycho",
+    "kategoria": "Wypowiedzi Regionalne i Gwarowe",
+    "opis_kategorii": "Komentarze napisane w gwarze regionalnej (np. śląskiej, kaszubskiej), lub bezpośrednio odnoszące się do regionalnej tożsamości, kultury, dumy, specyficznych problemów danego regionu lub jego mieszkańców."
+  },
+  {
+    "id": 89,
+    "tekst": "Kaj tam dzisioj lecisz? Niych Ci sie wszystko udo! Trzymiom za Ciebie kciuki i posyłom fest pozytywno energia.",
+    "kategoria": "Wypowiedzi Regionalne i Gwarowe",
+    "opis_kategorii": "Komentarze napisane w gwarze regionalnej (np. śląskiej, kaszubskiej), lub bezpośrednio odnoszące się do regionalnej tożsamości, kultury, dumy, specyficznych problemów danego regionu lub jego mieszkańców."
+  },
+  {
+    "id": 90,
+    "tekst": "Trzymiom za Ciebie kciuki, bo wiyrz, że Ci się wszystko udo. I pamiętej – świat je lepszy, jak się Ty uśmiychosz!",
+    "kategoria": "Wypowiedzi Regionalne i Gwarowe",
+    "opis_kategorii": "Komentarze napisane w gwarze regionalnej (np. śląskiej, kaszubskiej), lub bezpośrednio odnoszące się do regionalnej tożsamości, kultury, dumy, specyficznych problemów danego regionu lub jego mieszkańców."
+  },
+  {
+    "id": 91,
+    "tekst": "Brawo Panie Prezydencie. Wolność słowa to podstawa Państwa demokratycznego .",
+    "kategoria": "Wsparcie i Pochwała Postaci Publicznych",
+    "opis_kategorii": "Komentarze wyrażające pozytywne opinie, poparcie lub uznanie dla konkretnych postaci publicznych (np. Prezydenta) za ich działania, postawę lub wyrażane wartości, w kontekście politycznym lub społecznym."
+  },
+  {
+    "id": 92,
+    "tekst": "Niestety wielu obywateli może nawet nie mieć świadomości, że ci krzyczący dużo o wolności słowa i demokracji, teraz dążą do ograniczenia praw obywatelom, a zarazem zamykania nam ust. Szacunek dla Pana Prezydenta za stanie na straży wartości oraz poszanowania wolności wypowiedzi!",
+    "kategoria": "Wsparcie i Pochwała Postaci Publicznych",
+    "opis_kategorii": "Komentarze wyrażające pozytywne opinie, poparcie lub uznanie dla konkretnych postaci publicznych (np. Prezydenta) za ich działania, postawę lub wyrażane wartości, w kontekście politycznym lub społecznym."
+  },
+  {
+    "id": 93,
+    "tekst": "Można Prezydenta popierać lub nie, ale w tym przypadku trudno się nie zgodzić. Każde wsparcie przedsiębiorców w Polsce to korzyść dla naszego kraju.",
+    "kategoria": "Wsparcie i Pochwała Postaci Publicznych",
+    "opis_kategorii": "Komentarze wyrażające pozytywne opinie, poparcie lub uznanie dla konkretnych postaci publicznych (np. Prezydenta) za ich działania, postawę lub wyrażane wartości, w kontekście politycznym lub społecznym."
+  },
+  {
+    "id": 94,
+    "tekst": "Wiedza historyczna za każdym razem zachwyca, niezależnie od wydarzenia w jakim Prezydent RPuczestniczy.\nTa swoboda wypowiedzi, ta lekkość - podziwiam.\nAż chce się słuchać.  \nBrawo Panie Prezydencie",
+    "kategoria": "Wsparcie i Pochwała Postaci Publicznych",
+    "opis_kategorii": "Komentarze wyrażające pozytywne opinie, poparcie lub uznanie dla konkretnych postaci publicznych (np. Prezydenta) za ich działania, postawę lub wyrażane wartości, w kontekście politycznym lub społecznym."
+  }
+]
