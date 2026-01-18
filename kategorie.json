@@ -1,44 +1,44 @@
 {
   "kategorie": [
     {
-      "nazwa": "Krytyka Uczestników i Jury Talent Show",
-      "opis": "Komentarze bezpośrednio oceniające występy, talent, zachowanie, wygląd lub ogólny wkład uczestników oraz decyzje i kompetencje jurorów w programach telewizyjnych typu talent show."
+      "nazwa": "Pytania Krytyczne",
+      "opis": "Pytania kontrowersyjne, krytyczne wobec działań uczelni, wyrażające wątpliwości lub zmierzające do wywołania dyskusji."
     },
     {
-      "nazwa": "Agresywne Obelgi i Wulgaryzmy Ogólne",
-      "opis": "Komentarze zawierające bezpośrednie, bardzo agresywne obelgi, wulgaryzmy lub treści skrajnie obraźliwe, które nie są częścią szerszej dyskusji politycznej, o programach TV czy problemach społecznych, a stanowią głównie ekspresję frustracji, nienawiści lub prostackiego humoru."
+      "nazwa": "Komunikaty Uczelni",
+      "opis": "Oficjalne komunikaty, ogłoszenia o wydarzeniach, osiągnięciach, planach rozwoju i podsumowania działalności uczelni."
     },
     {
-      "nazwa": "Krytyka Polityków i Instytucji",
-      "opis": "Komentarze wyrażające negatywne oceny polityków, partii politycznych, działań rządu, instytucji państwowych lub ogólnych problemów polityczno-społecznych, często z użyciem silnie nacechowanego języka."
+      "nazwa": "Pytania Rekrutacyjne",
+      "opis": "Pytania dotyczące rekrutacji, terminów naboru, wymagań dla kandydatów, dni otwartych i procesu przyjęcia."
     },
     {
-      "nazwa": "Wsparcie i Pochwała Postaci Publicznych",
-      "opis": "Komentarze wyrażające pozytywne opinie, poparcie lub uznanie dla konkretnych postaci publicznych (np. Prezydenta) za ich działania, postawę lub wyrażane wartości, w kontekście politycznym lub społecznym."
+      "nazwa": "Pytania Organizacyjne",
+      "opis": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych."
     },
     {
-      "nazwa": "Wypowiedzi Regionalne i Gwarowe",
-      "opis": "Komentarze napisane w gwarze regionalnej (np. śląskiej, kaszubskiej), lub bezpośrednio odnoszące się do regionalnej tożsamości, kultury, dumy, specyficznych problemów danego regionu lub jego mieszkańców."
+      "nazwa": "Pytania o Rozwój",
+      "opis": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia."
     },
     {
-      "nazwa": "Dyskusje o Grach Komputerowych i Sprzęcie",
-      "opis": "Komentarze dotyczące gier wideo (nazwy, mechaniki, modyfikacje), sprzętu komputerowego (karty graficzne, technologie gamingowe) oraz oskarżeń o oszustwa (hackowanie) w grach online."
+      "nazwa": "Pytania o Wsparcie Finansowe",
+      "opis": "Pytania dotyczące stypendiów, grantów, funduszy badawczych i innych form wsparcia finansowego dla studentów."
     },
     {
-      "nazwa": "Wyrażanie Uczuć i Subiektywnych Ocen",
-      "opis": "Komentarze opisujące osobiste odczucia (smak, zgorszenie, zakochane), emocje, wrażenia estetyczne, refleksje filozoficzne lub religijne, a także luźne uwagi, skojarzenia lub impresje niezwiązane z innymi kategoriami."
+      "nazwa": "Pozytywne Reakcje",
+      "opis": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia."
     },
     {
-      "nazwa": "Komentarze o Pokoleniach i Problemach Młodzieży",
-      "opis": "Komentarze odnoszące się do zachowań młodego pokolenia, problemów specyficznych dla nastolatków (np. wczesne ciąże, hejt w internecie), lub nostalgiczne wspomnienia związane z młodością."
+      "nazwa": "Krytyka i Skargi",
+      "opis": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi."
     },
     {
-      "nazwa": "Teorie Spiskowe i Pseudo-nauka",
-      "opis": "Komentarze prezentujące teorie spiskowe, twierdzenia o ukrytych działaniach (np. chemtrails) lub narracje o manipulacji globalnej, często z wyraźnym odrzuceniem oficjalnych wyjaśnień."
+      "nazwa": "Treści Kontrowersyjne",
+      "opis": "Komentarze polityczne, spiskowe, radykalnie krytyczne lub wprowadzające treści kontrowersyjne do dyskusji."
     },
     {
-      "nazwa": "Porady i Recenzje Produktów Specjalistycznych",
-      "opis": "Komentarze oferujące konkretne porady, rekomendacje lub recenzje produktów z niszowych dziedzin, takich jak pielęgnacja włosów, zawierające szczegółowe nazwy produktów i ich zastosowania."
+      "nazwa": "Komentarze Neutralne",
+      "opis": "Komentarze neutralne, sprawy administracyjne, komunikacyjne, informacyjne lub propozycje współpracy."
     }
   ]
 }

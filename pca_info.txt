@@ -3,8 +3,8 @@ Oryginalny wymiar: 384
 Wymiar po PCA: 3
 
 Wyjaśniona wariancja:
-  Komponent 1: 0.0702 (7.02%)
-  Komponent 2: 0.0608 (6.08%)
-  Komponent 3: 0.0483 (4.83%)
+  Komponent 1: 0.0929 (9.29%)
+  Komponent 2: 0.0689 (6.89%)
+  Komponent 3: 0.0559 (5.59%)
 
-Skumulowana wyjaśniona wariancja: 0.1793 (17.93%)
+Skumulowana wyjaśniona wariancja: 0.2178 (21.78%)
