@@ -1,1 +1,0 @@
-# AnalizaKorpusu_SocialPure
