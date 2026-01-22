@@ -1,0 +1,1693 @@
+[
+    {
+        "text": "Czy politechnika popiera wykorzystywanie koni na trasie do Morskiego Oka? Czy to prawda, że współpracujecie z fiakrami?",
+        "category": "Pytania Krytyczne",
+        "sentiment": "negative",
+        "opis_kategorii": "Pytania kontrowersyjne, krytyczne wobec działań uczelni, wyrażające wątpliwości lub zmierzające do wywołania dyskusji.",
+        "date": "2026-01-02",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Ostatnie 365 dni to dla nas nie tylko liczby i rankingi, ale przede wszystkim Wy - społeczność Politechniki Śląskiej.",
+        "category": "Komunikaty Uczelni",
+        "sentiment": "positive",
+        "opis_kategorii": "Oficjalne komunikaty, ogłoszenia o wydarzeniach, osiągnięciach, planach rozwoju i podsumowania działalności uczelni.",
+        "date": "2025-12-31",
+        "platform": "facebook",
+        "type": "post"
+    },
+    {
+        "text": "Kiedy będzie dzień otwarty dla kandydatów na studia?",
+        "category": "Pytania Rekrutacyjne",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące rekrutacji, terminów naboru, wymagań dla kandydatów, dni otwartych i procesu przyjęcia.",
+        "date": "2025-12-10",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Czy są dostępne programy mentoringowe?",
+        "category": "Pytania Organizacyjne",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+        "date": "2025-11-15",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Jak wygląda proces rejestracji na przedmioty?",
+        "category": "Pytania Organizacyjne",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+        "date": "2025-11-20",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Kiedy będzie spotkanie z opiekunem roku?",
+        "category": "Pytania Organizacyjne",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+        "date": "2025-12-05",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Czy mogę studiować indywidualny tok nauki?",
+        "category": "Pytania Organizacyjne",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+        "date": "2025-11-28",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Czy są konferencje naukowe dla studentów?",
+        "category": "Pytania o Rozwój",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+        "date": "2025-12-18",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Czy mogę realizować praktyki w startupie?",
+        "category": "Pytania o Rozwój",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+        "date": "2025-11-22",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Czy są projekty badawcze dla studentów?",
+        "category": "Pytania o Rozwój",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+        "date": "2025-12-14",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Jak mogę uzyskać zaświadczenie o statusie studenta?",
+        "category": "Pytania Organizacyjne",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+        "date": "2025-11-12",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Czy są dostępne sale do nauki grupowej?",
+        "category": "Pytania Organizacyjne",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+        "date": "2025-12-22",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Kiedy rozpoczną się zajęcia w nowym semestrze?",
+        "category": "Pytania Organizacyjne",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+        "date": "2025-01-10",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Czy mogę pisać pracę dyplomową po angielsku?",
+        "category": "Pytania Organizacyjne",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+        "date": "2025-11-25",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Gdzie mogę znaleźć informacje o grantach studenckich?",
+        "category": "Pytania o Wsparcie Finansowe",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące stypendiów, grantów, funduszy badawczych i innych form wsparcia finansowego dla studentów.",
+        "date": "2025-12-08",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Czy są dostępne hackathony dla studentów?",
+        "category": "Pytania o Rozwój",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+        "date": "2025-11-18",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Kiedy będą dni kariery?",
+        "category": "Pytania o Rozwój",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+        "date": "2025-12-03",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Kiedy będą warsztaty z drukowania 3D?",
+        "category": "Pytania o Rozwój",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+        "date": "2025-11-30",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Jak mogę dołączyć do zespołu robotyki?",
+        "category": "Pytania o Rozwój",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+        "date": "2025-12-11",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Czy są programy stażowe w firmach partnerskich?",
+        "category": "Pytania o Rozwój",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+        "date": "2025-11-08",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Gdzie mogę zgłosić pomysł na projekt studencki?",
+        "category": "Pytania o Rozwój",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+        "date": "2025-12-20",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Czy są zajęcia z cyberbezpieczeństwa?",
+        "category": "Pytania Organizacyjne",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+        "date": "2025-11-14",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Kiedy będą spotkania z absolwentami?",
+        "category": "Pytania o Rozwój",
+        "sentiment": "neutral",
+        "opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+        "date": "2025-12-27",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Politechnika Śląska odpowiada na bieżące potrzeby kraju. Na naszej Uczelni rozpoczyna działalność Centrum Technologii Obronnych i Podwójnego Zastosowania – TOPAZ",
+        "category": "Komunikaty Uczelni",
+        "sentiment": "positive",
+        "opis_kategorii": "Oficjalne komunikaty, ogłoszenia o wydarzeniach, osiągnięciach, planach rozwoju i podsumowania działalności uczelni.",
+        "date": "2025-11-05",
+        "platform": "facebook",
+        "type": "post"
+    },
+    {
+        "text": "Politechnika Śląska to pierwsza polska uczelnia techniczna, która podejmuje współpracę z WiN Polska",
+        "category": "Komunikaty Uczelni",
+        "sentiment": "positive",
+        "opis_kategorii": "Oficjalne komunikaty, ogłoszenia o wydarzeniach, osiągnięciach, planach rozwoju i podsumowania działalności uczelni.",
+        "date": "2025-12-16",
+        "platform": "facebook",
+        "type": "post"
+    },
+    {
+        "text": "Politechnika Śląska na czele europejskiej nauki! Rektor wybrany na przewodniczącego Rady Rektorów EURECA-PRO",
+        "category": "Komunikaty Uczelni",
+        "sentiment": "positive",
+        "opis_kategorii": "Oficjalne komunikaty, ogłoszenia o wydarzeniach, osiągnięciach, planach rozwoju i podsumowania działalności uczelni.",
+        "date": "2025-11-19",
+        "platform": "facebook",
+        "type": "post"
+    },
+    {
+        "text": "Dumni z naszego Rektora",
+        "category": "Pozytywne Reakcje",
+        "sentiment": "positive",
+        "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+        "date": "2025-11-19",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Politechnika Śląska w sercu Doliny Krzemowej. Przez 4 dni nasi naukowcy brali udział w programie Top 1000 Innovators in Silicon Valley",
+        "category": "Komunikaty Uczelni",
+        "sentiment": "positive",
+        "opis_kategorii": "Oficjalne komunikaty, ogłoszenia o wydarzeniach, osiągnięciach, planach rozwoju i podsumowania działalności uczelni.",
+        "date": "2025-12-06",
+        "platform": "instagram",
+        "type": "post"
+    },
+    {
+        "text": "Zgłaszamy obecność!",
+        "category": "Pozytywne Reakcje",
+        "sentiment": "positive",
+        "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+        "date": "2025-12-06",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Wrzucałem ostatnio tę grafikę jako teaser zmiana nazwy przystanku. Moim zdaniem pomysł zupełnie nieprzemyślany",
+        "category": "Krytyka i Skargi",
+        "sentiment": "negative",
+        "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+        "date": "2025-11-26",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Za nami Śląski Festiwal Nauki. Politechnika Śląska jako współorganizator pokazała ogromną moc nauki",
+        "category": "Komunikaty Uczelni",
+        "sentiment": "positive",
+        "opis_kategorii": "Oficjalne komunikaty, ogłoszenia o wydarzeniach, osiągnięciach, planach rozwoju i podsumowania działalności uczelni.",
+        "date": "2025-11-10",
+        "platform": "facebook",
+        "type": "post"
+    },
+    {
+        "text": "Nie przerywaj swojego rozwoju! Kontynuacja studiów na II stopniu to najlepsza inwestycja w swoją przyszłość",
+        "category": "Komunikaty Uczelni",
+        "sentiment": "positive",
+        "opis_kategorii": "Oficjalne komunikaty, ogłoszenia o wydarzeniach, osiągnięciach, planach rozwoju i podsumowania działalności uczelni.",
+        "date": "2025-12-12",
+        "platform": "instagram",
+        "type": "post"
+    },
+    {
+        "text": "Mierzymy wysoko! Jesteśmy w TOP 6 uczelni w Polsce w rankingu QS Sustainability Rankings 2026!",
+        "category": "Komunikaty Uczelni",
+        "sentiment": "positive",
+        "opis_kategorii": "Oficjalne komunikaty, ogłoszenia o wydarzeniach, osiągnięciach, planach rozwoju i podsumowania działalności uczelni.",
+        "date": "2025-11-23",
+        "platform": "facebook",
+        "type": "post"
+    },
+    {
+        "text": "Politechnika Śląska w światowej czołówce w ShanghaiRanking 2025",
+        "category": "Komunikaty Uczelni",
+        "sentiment": "positive",
+        "opis_kategorii": "Oficjalne komunikaty, ogłoszenia o wydarzeniach, osiągnięciach, planach rozwoju i podsumowania działalności uczelni.",
+        "date": "2025-12-04",
+        "platform": "facebook",
+        "type": "post"
+    },
+    {
+        "text": "Chcesz zostać jednym ze Studentów Przyszłości? Trwa II nabór do programu Uczelnie Przyszłości!",
+        "category": "Komunikaty Uczelni",
+        "sentiment": "positive",
+        "opis_kategorii": "Oficjalne komunikaty, ogłoszenia o wydarzeniach, osiągnięciach, planach rozwoju i podsumowania działalności uczelni.",
+        "date": "2025-11-17",
+        "platform": "instagram",
+        "type": "post"
+    },
+    {
+        "text": "Politechnika Śląska sięgnęła gwiazd! Za nami inspirujący przystanek trasy technologiczno-naukowej z udziałem Sławosz Uznański-Wiśniewski",
+        "category": "Komunikaty Uczelni",
+        "sentiment": "positive",
+        "opis_kategorii": "Oficjalne komunikaty, ogłoszenia o wydarzeniach, osiągnięciach, planach rozwoju i podsumowania działalności uczelni.",
+        "date": "2025-12-28",
+        "platform": "facebook",
+        "type": "post"
+    },
+    {
+        "text": "UWAGA! Dodatkowa rejestracja na spotkanie z dr. Sławoszem Uznańskim-Wiśniewskim",
+        "category": "Komunikaty Uczelni",
+        "sentiment": "positive",
+        "opis_kategorii": "Oficjalne komunikaty, ogłoszenia o wydarzeniach, osiągnięciach, planach rozwoju i podsumowania działalności uczelni.",
+        "date": "2025-12-27",
+        "platform": "instagram",
+        "type": "post"
+    },
+    {
+        "text": "Istnie Kosmiczne Emocje, dziękujemy za spotkanie",
+        "category": "Pozytywne Reakcje",
+        "sentiment": "positive",
+        "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+        "date": "2025-12-28",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Dziękujemy za dziś!",
+        "category": "Pozytywne Reakcje",
+        "sentiment": "positive",
+        "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+        "date": "2025-12-28",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Zapraszamy na Politechnikę Białostocką. Mamy tutaj fantastycznych młodych ludzi",
+        "category": "Pozytywne Reakcje",
+        "sentiment": "positive",
+        "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+        "date": "2025-12-28",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Aktor pierogowego kosmosu z studia tv, pojęcia nie ma o kosmosie",
+        "category": "Krytyka i Skargi",
+        "sentiment": "negative",
+        "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+        "date": "2025-12-28",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Znakomity temat zastępczy dla gawiedzi, oklaski dla specjalistów od sterowania biomasą",
+        "category": "Krytyka i Skargi",
+        "sentiment": "negative",
+        "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+        "date": "2025-12-28",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Bardzo dobry sprzedawca i marketingowiec i to było by na tyle",
+        "category": "Krytyka i Skargi",
+        "sentiment": "negative",
+        "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+        "date": "2025-12-28",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Jprd, facet przeleci się komercyjnym lotem, zrobił kilka eksperymentów, zjadł pierogi. To jest dziecinada i cyrk",
+        "category": "Krytyka i Skargi",
+        "sentiment": "negative",
+        "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+        "date": "2025-12-28",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Tylko w obcych nie uwierzcie bo już po was! Jak widać nic się nie zmieniło w kwestii podboju nieba poza technologią",
+        "category": "Treści Kontrowersyjne",
+        "sentiment": "negative",
+        "opis_kategorii": "Komentarze polityczne, spiskowe, radykalnie krytyczne lub wprowadzające treści kontrowersyjne do dyskusji.",
+        "date": "2025-12-28",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Pisowskie wyjce wyjącą",
+        "category": "Treści Kontrowersyjne",
+        "sentiment": "negative",
+        "opis_kategorii": "Komentarze polityczne, spiskowe, radykalnie krytyczne lub wprowadzające treści kontrowersyjne do dyskusji.",
+        "date": "2025-12-28",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Politechnika sięgnęła ale dna",
+        "category": "Krytyka i Skargi",
+        "sentiment": "negative",
+        "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+        "date": "2025-12-28",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Dokładnie, ja wysiadając koło Politechniki z kierunku Mikołowa, wysiadałam przy Komagu. Z kolei z dworca chodziłam piechotą",
+        "category": "Komentarze Neutralne",
+        "sentiment": "neutral",
+        "opis_kategorii": "Komentarze neutralne, sprawy administracyjne, komunikacyjne, informacyjne lub propozycje współpracy.",
+        "date": "2025-11-26",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Zwięźlej. Zwięźlej!",
+        "category": "Krytyka i Skargi",
+        "sentiment": "negative",
+        "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+        "date": "2025-11-26",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Z jakiegoś tajemniczego powodu radni nie polubili posta, ani nie wchodzą w polemikę",
+        "category": "Krytyka i Skargi",
+        "sentiment": "negative",
+        "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+        "date": "2025-11-26",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Tak a'propos lepszej orientacji to przystanek Jasnogórska na nowej trasie 676 znajduje się na Sobieskiego",
+        "category": "Komentarze Neutralne",
+        "sentiment": "neutral",
+        "opis_kategorii": "Komentarze neutralne, sprawy administracyjne, komunikacyjne, informacyjne lub propozycje współpracy.",
+        "date": "2025-11-26",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "I jak ładnie te wieści korspondują z tą o rozwoju AI na Śląsku",
+        "category": "Pozytywne Reakcje",
+        "sentiment": "positive",
+        "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+        "date": "2025-11-05",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Oj nie wiem czy to tylko w celach obronnych.. Raczej do szerokiej kontroli społeczeństwa",
+        "category": "Treści Kontrowersyjne",
+        "sentiment": "negative",
+        "opis_kategorii": "Komentarze polityczne, spiskowe, radykalnie krytyczne lub wprowadzające treści kontrowersyjne do dyskusji.",
+        "date": "2025-11-05",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Znakomita inicjatywa! Trzymamy kciuki i zapraszamy do współpracy!",
+        "category": "Pozytywne Reakcje",
+        "sentiment": "positive",
+        "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+        "date": "2025-11-05",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Życzę sukcesów",
+        "category": "Pozytywne Reakcje",
+        "sentiment": "positive",
+        "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+        "date": "2025-11-05",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {
+        "text": "Jak byście potrzebowali speca od instalacji gazów technicznych w tych projektach to służę pomocą",
+        "category": "Komentarze Neutralne",
+        "sentiment": "neutral",
+        "opis_kategorii": "Komentarze neutralne, sprawy administracyjne, komunikacyjne, informacyjne lub propozycje współpracy.",
+        "date": "2025-11-05",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Brawo. Nie ma co chować głowy w piasek",
+        "category": "Pozytywne Reakcje",
+        "sentiment": "positive",
+        "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+        "date": "2025-11-05",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Powodzenia :)",
+        "category": "Pozytywne Reakcje",
+        "sentiment": "positive",
+        "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+        "date": "2025-11-05",
+        "platform": "facebook",
+        "type": "comment"
+    },
+    {
+        "text": "Gratulacje i powodzenia",
+        "category": "Pozytywne Reakcje",
+        "sentiment": "positive",
+        "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+        "date": "2025-12-31",
+        "platform": "instagram",
+        "type": "comment"
+    },
+    {"text": "Szczęśliwego nowego roku!",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-12-31",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Gratulacje! Wspaniałe podsumowanie! Serdecznie dziękuję za życzenia i przesyłam również najserdeczniejsze!",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-12-31",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Czy są praktyki zagraniczne dla studentów Automatyki?",
+    "category": "Pytania o Rozwój",
+    "sentiment": "neutral",
+    "opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+    "date": "2025-11-13",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Kiedy będą dni otwarte dla uczniów liceum?",
+    "category": "Pytania Rekrutacyjne",
+    "sentiment": "neutral",
+    "opis_kategorii": "Pytania dotyczące rekrutacji, terminów naboru, wymagań dla kandydatów, dni otwartych i procesu przyjęcia.",
+    "date": "2025-12-09",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Czy jest możliwość urlopu dziekańskiego?",
+    "category": "Pytania Organizacyjne",
+    "sentiment": "neutral",
+    "opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+    "date": "2025-11-21",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Kiedy egzaminy wstępne na studia?",
+    "category": "Pytania Rekrutacyjne",
+    "sentiment": "neutral",
+    "opis_kategorii": "Pytania dotyczące rekrutacji, terminów naboru, wymagań dla kandydatów, dni otwartych i procesu przyjęcia.",
+    "date": "2025-12-15",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Czy są kursy przygotowujące do certyfikatów?",
+    "category": "Pytania o Rozwój",
+    "sentiment": "neutral",
+    "opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+    "date": "2025-11-16",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Jak się zapisać na wykład otwarty?",
+    "category": "Pytania Organizacyjne",
+    "sentiment": "neutral",
+    "opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+    "date": "2025-12-19",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Czy są zajęcia z etyki zawodowej?",
+    "category": "Pytania Organizacyjne",
+    "sentiment": "neutral",
+    "opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+    "date": "2025-11-24",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Czy mogę realizować praktyki w startupie?",
+    "category": "Pytania o Rozwój",
+    "sentiment": "neutral",
+    "opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+    "date": "2025-12-02",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Znowu ksero nie działa, już trzeci tydzień",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-11-07",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Profesor spóźnił się pół godziny i jeszcze krzyczał na grupę",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-11-11",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Materiały z wykładu z 2005 roku, nic się nie zmieniło",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-12-01",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Mikrofon w auli nie działa od początku semestru",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-11-27",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Czy stypendium socjalne jest na pewno tylko dla biednych? Bo znam bogatych co dostają",
+    "category": "Pytania Krytyczne",
+    "sentiment": "negative",
+    "opis_kategorii": "Pytania kontrowersyjne, krytyczne wobec działań uczelni, wyrażające wątpliwości lub zmierzające do wywołania dyskusji.",
+    "date": "2025-12-13",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "W bibliotece zawsze zimno jak w lodówce",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-11-29",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Plan zajęć dostajemy tydzień przed semestrem, jak tu cokolwiek zaplanować?",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-01-08",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "USOS znowu padł w trakcie zapisów, klasyka",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-11-20",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Trzecia sala w tym tygodniu bez działającego projektora",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-12-17",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Pracownik ochrony nie wpuścił mnie z legitymacją bo była zgięta",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-11-06",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Stołówka zamknięta między 14 a 15, dokładnie gdy wszyscy mają przerwę",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-12-23",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Automat z kawą bierze kasę i nic nie wydaje, już zgłaszałem 5 razy",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-11-09",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Super organizacja konferencji, wszystko na najwyższym poziomie!",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-12-07",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Wykładowca naprawdę potrafi zainteresować tematem, rzadko spotykane",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-11-04",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Laboratorium świetnie wyposażone, można normalnie pracować",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-12-25",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Dziekanat załatwił sprawę tego samego dnia, jestem w szoku pozytywnie",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-11-03",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Koło naukowe daje naprawdę dużo możliwości rozwoju",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-12-21",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Stypendium przyszło w terminie, wreszcie coś działa",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-11-02",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Praktyki w firmie partnerskiej super zorganizowane",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-12-26",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Warsztaty z programowania naprawdę wartościowe, polecam",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-11-01",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Profesor zawsze odpowiada na maile, szacun",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-12-24",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Akademik po remoncie wygląda świetnie",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-01-05",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Konsultacje bardzo pomocne, wszystko wyjaśnione",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-01-12",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Czy to normalne że projekt trzeba oddać w 3 dni?",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-01-14",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "10 egzaminów w 2 tygodnie, kto to wymyślił?",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-01-16",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Materiał z 3 semestrów na jeden egzamin, to chyba żart",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-01-11",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Wykładowca oczekuje znajomości rzeczy, których nie było na zajęciach",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-12-29",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Na pierwszym roku 60% osób już odpadło",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-01-07",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Zaliczenie z przedmiotu którego nie było w planie",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-01-04",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Jak napisać pracę dyplomową w miesiąc?",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-01-15",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Profesor powiedział że jak nie zdamy to nasza wina",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-01-13",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Trzeci raz piszę poprawkę z tego samego",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-01-09",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Kolokwium z materiału którego jeszcze nie było",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-01-06",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Po tylu latach nadal kocham tę uczelnię!",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-12-30",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Najlepsze lata mojego życia spędzone na Politechnice",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-01-03",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Bez Politechniki nie byłbym tym kim jestem dziś",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-01-01",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Studia tutaj to była świetna decyzja",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-12-05",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Polecam Politechnikę Śląską każdemu!",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-11-12",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Znowu biblioteka zamknięta w sobotę? Jak tu się normalnie uczyć przed sesją?",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-01-11",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Wspaniała inicjatywa! Politechnika idzie z duchem czasu",
+    "category": "Pozytywne Reakcje",
+    "sentiment": "positive",
+    "opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+    "date": "2025-11-23",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "System USOS to jakaś porażka totalna, ciągle się zawiesza",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-11-20",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Te ceny w stołówce to jakiś żart? Za takie pieniądze można zjeść w centrum",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-12-10",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Parking przy wydziale znowu przepełniony, gdzie tu się parkować?",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-11-08",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Znowu remont i wszędzie kurz, nie da się tu oddychać",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-11-15",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Internet w akademiku ciągle się wysypuje, jak tu zdawać zdalnie?",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-12-18",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Wykładowca znowu odwołał zajęcia 5 minut przed, zero szacunku",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-11-22",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Egzamin z analizy to masakra, 80% ludzi oblało",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-01-15",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Znowu zmienili regulamin stypendium i nikt nie poinformował",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-12-11",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "W dziekanacie traktują studenta jak petenta, zero kultury",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-11-28",
+    "platform": "instagram",
+    "type": "comment"
+},
+{
+    "text": "Laboratorium z elektroniki bez sprzętu, tylko teoria na slajdach",
+    "category": "Krytyka i Skargi",
+    "sentiment": "negative",
+    "opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+    "date": "2025-12-04",
+    "platform": "facebook",
+    "type": "comment"
+},
+{
+    "text": "Grafik zajęć zmienia się co tydzień, niemożliwe zaplanować cokolwiek",
+"category": "Krytyka i Skargi",
+"sentiment": "negative",
+"opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+"date": "2025-11-10",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Znowu trzeba było czekać godzinę w kolejce po podpis",
+"category": "Krytyka i Skargi",
+"sentiment": "negative",
+"opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+"date": "2025-12-22",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Pani w sekretariacie nawet nie podniosła głowy znad telefonu",
+"category": "Krytyka i Skargi",
+"sentiment": "negative",
+"opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+"date": "2025-11-17",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Jak tu studiować jak co drugi wykładowca choruje?",
+"category": "Krytyka i Skargi",
+"sentiment": "negative",
+"opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+"date": "2025-12-14",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Toalety na 3 piętrze od miesiąca bez papieru",
+"category": "Krytyka i Skargi",
+"sentiment": "negative",
+"opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+"date": "2025-11-25",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Klimatyzacja nie działa, 30 stopni na wykładzie",
+"category": "Krytyka i Skargi",
+"sentiment": "negative",
+"opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+"date": "2025-11-07",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Protokół z egzaminu nie zgadza się z oceną końcową, jak to możliwe?",
+"category": "Krytyka i Skargi",
+"sentiment": "negative",
+"opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+"date": "2025-01-14",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Czekam 2 miesiące na odpowiedź z dziekanatu w sprawie zaliczenia",
+"category": "Krytyka i Skargi",
+"sentiment": "negative",
+"opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+"date": "2025-12-19",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Wykładowca powiedział że nie czytał maili od 3 tygodni lol",
+"category": "Krytyka i Skargi",
+"sentiment": "negative",
+"opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+"date": "2025-11-14",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Na konsultacjach nikt nie przyszedł, strata czasu",
+"category": "Krytyka i Skargi",
+"sentiment": "negative",
+"opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+"date": "2025-12-08",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Dumna jestem, że studiuję na Politechnice Śląskiej!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-11-19",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Bardzo profesjonalna organizacja! Dziękuję za wspaniałe doświadczenia",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-12-02",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Super! To motywuje do dalszej nauki",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-11-23",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Wspaniała uczelnia, najlepszy wybór w moim życiu!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-12-12",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Gratulacje całemu zespołowi!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-11-05",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Świetna wiadomość! Oby więcej takich sukcesów!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-12-16",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Rewelacja! Tak trzymać!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-11-10",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Brawo! Politechnika zasługuje na uznanie!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-12-04",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Świetna robota! Jestem pod wrażeniem!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-11-27",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Fantastycznie! To motywuje do działania!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-12-09",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Wspaniale! Gratuluje całej społeczności!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-11-17",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Brawo za osiągnięcia! Tak trzymać!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-12-23",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Świetna inicjatywa! Politechnika rozwija się!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-11-06",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Brawo! Jestem pod wrażeniem!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-12-15",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Super! Politechnika zasługuje na uznanie!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-11-21",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Brawo za rozwój! Politechnika idzie naprzód!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-12-20",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Fantastyczne osiągnięcie! Tak trzymać!",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-11-11",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Jaki jest termin składania dokumentów na studia magisterskie?",
+"category": "Pytania Rekrutacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące rekrutacji, terminów naboru, wymagań dla kandydatów, dni otwartych i procesu przyjęcia.",
+"date": "2025-12-07",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Brawo! Trzymamy kciuki za dalsze sukcesy",
+"category": "Pozytywne Reakcje",
+"sentiment": "positive",
+"opis_kategorii": "Pozytywne komentarze wyrażające dumę, poparcie, gratulacje, zadowolenie z uczelni lub pozytywne doświadczenia.",
+"date": "2025-11-19",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Czy są jakieś programy wymiany studenckiej z uczelniami w USA?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-11-18",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Czy jest możliwość przeniesienia z innej uczelni?",
+"category": "Pytania Rekrutacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące rekrutacji, terminów naboru, wymagań dla kandydatów, dni otwartych i procesu przyjęcia.",
+"date": "2025-12-13",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Jakie są opłaty za akademik? Ile miesięcznie?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-11-24",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Kiedy będą wyniki stypediów? Czekam już 3 tygodnie...",
+"category": "Krytyka i Skargi",
+"sentiment": "negative",
+"opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+"date": "2025-12-11",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Jakie są perspektywy zatrudnienia po kierunku Mechanika i Budowa Maszyn?",
+"category": "Pytania o Rozwój",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+"date": "2025-12-17",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "A akademiki kiedy się przestaną sypać? Co roku to samo...",
+"category": "Krytyka i Skargi",
+"sentiment": "negative",
+"opis_kategorii": "Komentarze krytyczne wobec uczelni, kadry, infrastruktury, organizacji, obsługi lub wyrażające niezadowolenie i skargi.",
+"date": "2025-01-05",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Kiedy zaczną się zapisy na przedmioty obieralne?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-11-19",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Czy można łączyć studia dzienne z pracą?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-12-06",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Gdzie mogę znaleźć harmonogram zajęć?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-11-16",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Jakie są wymagania na stypendium naukowe?",
+"category": "Pytania o Wsparcie Finansowe",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące stypendiów, grantów, funduszy badawczych i innych form wsparcia finansowego dla studentów.",
+"date": "2025-12-14",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Czy jest możliwość studiowania dwóch kierunków jednocześnie?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-11-23",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Jakie języki programowania są wykładane na Informatyce?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-12-21",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Czy są kursy przygotowawcze przed rozpoczęciem studiów?",
+"category": "Pytania Rekrutacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące rekrutacji, terminów naboru, wymagań dla kandydatów, dni otwartych i procesu przyjęcia.",
+"date": "2025-11-12",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Czy są zajęcia fakultatywne z robotyki?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-12-26",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Jakie są godziny otwarcia dziekanatu?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-11-08",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Czy mogę zmienić kierunek po pierwszym roku?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-12-29",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Kiedy będą konsultacje z profesorem?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-11-14",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Czy są zniżki dla studentów na komunikację miejską?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-12-24",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Jakie są terminy zjazdów na studiach zaocznych?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-11-20",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Czy jest możliwość wzięcia urlopu dziekańskiego?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-01-02",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Gdzie mogę kupić legitymację studencką?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-11-26",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Czy są koła naukowe związane z programowaniem?",
+"category": "Pytania o Rozwój",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+"date": "2025-12-30",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Kiedy będą egzaminy poprawkowe?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-01-13",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Jakie są wymagania dotyczące pracy dyplomowej?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-11-30",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Czy można studiować na dwóch wydziałach?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-12-03",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Jak wygląda proces rekrutacji na studia doktoranckie?",
+"category": "Pytania Rekrutacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące rekrutacji, terminów naboru, wymagań dla kandydatów, dni otwartych i procesu przyjęcia.",
+"date": "2025-01-16",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Kiedy będzie targi pracy dla absolwentów?",
+"category": "Pytania o Rozwój",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+"date": "2025-11-09",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Jak mogę zapisać się do koła naukowego?",
+"category": "Pytania o Rozwój",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+"date": "2025-12-27",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Czy są miejsca parkingowe dla studentów?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-11-15",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Kiedy będą obrony prac licencjackich?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-01-12",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Czy są zajęcia wyrównawcze z matematyki?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-11-22",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Jakie są możliwości studiowania w języku angielskim?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-12-10",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Czy mogę przedłużyć sesję egzaminacyjną?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-01-14",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Gdzie znajdę plan zajęć na nowy semestr?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-01-09",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Czy są dostępne konsultacje psychologiczne dla studentów?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-11-27",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Kiedy rozpoczyna się rekrutacja na studia podyplomowe?",
+"category": "Pytania Rekrutacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące rekrutacji, terminów naboru, wymagań dla kandydatów, dni otwartych i procesu przyjęcia.",
+"date": "2025-12-01",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Czy są dostępne stypendia dla studentów zagranicznych?",
+"category": "Pytania o Wsparcie Finansowe",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące stypendiów, grantów, funduszy badawczych i innych form wsparcia finansowego dla studentów.",
+"date": "2025-11-11",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Czy można przenieść się między trybami studiów?",
+"category": "Pytania Organizacyjne",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące organizacji studiów, harmonogramów, zapisów, procedur, wsparcia dla studentów i spraw administracyjnych.",
+"date": "2025-12-28",
+"platform": "facebook",
+"type": "comment"
+},
+{
+"text": "Gdzie mogę znaleźć informacje o stypendium socjalnym?",
+"category": "Pytania o Wsparcie Finansowe",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące stypendiów, grantów, funduszy badawczych i innych form wsparcia finansowego dla studentów.",
+"date": "2025-11-29",
+"platform": "instagram",
+"type": "comment"
+},
+{
+"text": "Czy są praktyki w firmach zagranicznych?",
+"category": "Pytania o Rozwój",
+"sentiment": "neutral",
+"opis_kategorii": "Pytania dotyczące rozwoju akademickiego i zawodowego: projekty, badania, koła naukowe, praktyki, staże, warsztaty, kursy i wydarzenia.",
+"date": "2025-01-04",
+"platform": "facebook",
+"type": "comment"
+}
+]
